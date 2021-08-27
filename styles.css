@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+ol {
+    position: relative;
+    left: 40%;
+    font-family: sans-serif;
+}
+
+.texto {
+    text-align: center;
+}
+
+.boton {
+    position: relative;
+    left: 46%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 2px;
+}
+
